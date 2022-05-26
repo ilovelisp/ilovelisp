@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**lisp/university**
+
+- Scheme
+- Common Lisp
+- Haskell
+- Quantum Programming
+- 设计构成
+- 创业十年
 <!--
 **ilovelisp/ilovelisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
